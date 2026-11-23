@@ -49,4 +49,4 @@ C++17, HTML, CSS, JavaScript
 
 ## Author
 
-Aaroo, B.Tech
+ARADHYA RAJ, B.Tech
