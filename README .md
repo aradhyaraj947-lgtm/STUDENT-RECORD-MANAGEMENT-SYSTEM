@@ -1,6 +1,6 @@
 # Student Record Management System
 
-A student record management system built with **C++ and Data Structures**, with a C++ console backend and a browser-based frontend.
+A menu-driven console application for managing student records, built with **C++ and Data Structures**.
 
 ## Features
 
@@ -25,12 +25,9 @@ A student record management system built with **C++ and Data Structures**, with 
 
 ## Project Files
 
-- `student_record_system.cpp` - C++ console backend
-- `student_record_frontend.html` - browser frontend (same logic, written in JavaScript)
+- `student_record_system.cpp` - complete C++ source code
 
 ## How to Run
-
-### Backend (C++)
 
 ```bash
 g++ -std=c++17 student_record_system.cpp -o srms
@@ -39,14 +36,10 @@ g++ -std=c++17 student_record_system.cpp -o srms
 
 Records are saved to `students.csv` in the same folder.
 
-### Frontend
-
-Open `student_record_frontend.html` in any web browser. No installation needed. Data is stored in the browser, and you can import or export CSV files compatible with the C++ backend.
-
 ## Technologies
 
-C++17, HTML, CSS, JavaScript
+C++17
 
 ## Author
 
-ARADHYA RAJ, B.Tech
+Aradhya Raj, B.Tech
